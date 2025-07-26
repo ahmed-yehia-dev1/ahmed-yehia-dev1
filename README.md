@@ -13,7 +13,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-009688?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLABS_cipring-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB Sci](https://img.shields.io/badge/MATLAB_Scripting-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink modeling ](https://img.shields.io/badge/Simulink_Modeling-FF6F00?style=for-the-badge&logoColor=white)
+
 
 
 ---
