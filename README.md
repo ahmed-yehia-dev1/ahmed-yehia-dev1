@@ -40,8 +40,5 @@ Feel free to connect or reach out!
 
 ---
 
-<p align="center">
-  <img src="[https://i.makeagif.com/media/5-09-2022/-IwW_4.gif](https://i.makeagif.com/media/5-09-2022/-IwW_4.mp4)" width="200" alt="Dancing Anna">
-</p>
 
 _Thanks for stopping by! 😊_
