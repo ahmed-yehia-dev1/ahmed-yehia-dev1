@@ -41,7 +41,7 @@ Feel free to connect or reach out!
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlscTFjZTAwZ29icWFrYXJ4YmZkZDh4ZGhxY25qZXRhOXRyYXpjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tk3XG3TACymk/giphy.gif" width="200" alt="Cute Dancing Anna](https://i.makeagif.com/media/5-09-2022/-IwW_4.gif">
+  <img src="https://i.makeagif.com/media/5-09-2022/-IwW_4.gif" width="200" alt="Dancing Anna">
 </p>
 
 _Thanks for stopping by! 😊_
