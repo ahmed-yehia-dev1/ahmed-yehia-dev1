@@ -1,4 +1,4 @@
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ahmed"> 
+
 
 
 ### Hi there, I'm Ahmed 👋 (23 y.o)  
