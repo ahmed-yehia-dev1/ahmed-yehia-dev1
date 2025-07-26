@@ -1,6 +1,5 @@
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ahmed"> 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmed"> 
-<br> 
+
 
 ### Hi there, I'm Ahmed 👋 (23 y.o)  
 🎓 I'm an engineering student with a passion for **embedded systems** and **firmware development**.  
@@ -31,11 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed&layout=compact&theme=tokyonight)
-
----
 
 ### 📬 Get In Touch
 Feel free to connect or reach out!
